@@ -1,0 +1,22 @@
+{
+  "name": "ts-rn-swipe-button-example",
+  "displayName": "TsRnSwipeButton Example",
+  "expo": {
+    "name": "ts-rn-swipe-button-example",
+    "slug": "ts-rn-swipe-button-example",
+    "description": "Example app for ts-rn-swipe-button",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
