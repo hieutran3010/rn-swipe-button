@@ -1,6 +1,6 @@
 # ts-rn-swipe-button
 
-The swipe button
+This library is cloned from [UdaySravanK/RNSwipeButton](https://github.com/UdaySravanK/RNSwipeButton) and is converted to functional component as well as update latest react apis by [julien9999](https://github.com/julien9999/RNSwipeButton). My task is only creating a completely react native component under supported by [bob](https://github.com/react-native-community/bob). With bob supporting, this library can work fine on both js and ts projects. I'd like to say thankful for UdaySravank and julien9999.
 
 ## Installation
 
@@ -11,11 +11,10 @@ npm install ts-rn-swipe-button
 ## Usage
 
 ```js
-import TsRnSwipeButton from "ts-rn-swipe-button";
+import SwipeButton from "ts-rn-swipe-button";
 
 // ...
 
-const result = await TsRnSwipeButton.multiply(3, 7);
 ```
 
 ## Contributing
